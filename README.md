@@ -4,7 +4,7 @@ This repository contains the Power BI dashboard created for the Awesome Chocolat
 **Link to contest:** https://chandoo.org/wp/announcing-power-bi-dashboard-contest/
 
 
-## Features/
+## Features
 
     Sales Overview: Visualizes sales trends, units sold, and profit margins.
     Shipment Analysis: Highlights shipment counts, including low-box shipments.
@@ -15,14 +15,26 @@ This repository contains the Power BI dashboard created for the Awesome Chocolat
 
 ## Views:
 
-* View 1 - Trends:
+* **View 1 - Trends:**
   
-* View 2 - Teams and geographical analysis:
+  ![View 1 - Trends](https://github.com/Egidiu/Dashboard-Sales-Analysis-Chocolate-Factory/assets/74879362/9f0ad3f2-9bfe-4c98-861e-b2c6b5ae3968)
 
-* View 3 - Product analysis:
+* **View 2 - Teams and geographical analysis:**
+  
+![View 2 - Teams and geographical analysis](https://github.com/Egidiu/Dashboard-Sales-Analysis-Chocolate-Factory/assets/74879362/a38da589-59ad-4aab-8024-fd51de655569)
 
-* View 4.1 - Pareto analysis - No of boxes:
+* **View 3 - Product analysis:**
+  
+![View 3 - Product analysis](https://github.com/Egidiu/Dashboard-Sales-Analysis-Chocolate-Factory/assets/74879362/777e824c-5e8b-4889-84a9-f130c5c1b2d0)
 
-* View 4.2 - Pareto analysis - Total sales:
+* **View 4.1 - Pareto analysis - No of boxes:**
+  
+![View 4 1 - Pareto analysis - No of boxes](https://github.com/Egidiu/Dashboard-Sales-Analysis-Chocolate-Factory/assets/74879362/44dfd81f-1c2e-4a5a-b2dc-02958c6498e4)
 
-* View 4.3 - Pareto analysis - Total profit
+* **View 4.2 - Pareto analysis - Total sales:**
+  
+![View 4 2 - Pareto analysis - Total sales](https://github.com/Egidiu/Dashboard-Sales-Analysis-Chocolate-Factory/assets/74879362/ee47888c-f11c-4aee-87be-b1d22a95e3dc)
+
+* **View 4.3 - Pareto analysis - Total profit**
+  
+![View 4 3 - Pareto analysis - Total profit](https://github.com/Egidiu/Dashboard-Sales-Analysis-Chocolate-Factory/assets/74879362/b0bca42a-2f6b-442a-b313-cd12af47b077)
